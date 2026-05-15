@@ -53,3 +53,10 @@ Súčasťou riešenia je aj podpora kolaboratívneho kreslenia v reálnom čase 
 - Príprava testovacích úloh.
 - Priebežné testovanie podľa DBR a úprava implementácie.
 - Písanie písomnej práce.
+
+
+## Súbory v repozitári
+
+- [Písomná časť diplomovej práce](diplomovka-1.pdf)
+- [Prezentácia pokroku](ONLINE%20VEKTOROV%C3%9D%20EDITOR.pptx)
+- [Aktuálna verzia aplikácie](vector_editor.zip)
