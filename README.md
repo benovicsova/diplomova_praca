@@ -247,7 +247,6 @@ Aplikácia je rozdelená na dve hlavné časti:
 
 Pri kolaboratívnom kreslení sa zmena vykonaná jedným používateľom odošle na server a následne sa synchronizuje s ostatnými používateľmi pripojenými do rovnakej miestnosti.
 
-```markdown
 # Vedecké články a zdroje
 
 Pri spracovaní teoretickej časti diplomovej práce a pri návrhu metodiky vývoja aplikácie používame najmä zdroje zamerané na edukačný softvér, používateľské rozhranie, kognitívnu záťaž a metodológiu Design-Based Research.
