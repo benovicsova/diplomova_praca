@@ -297,7 +297,6 @@ Pri spracovaní teoretickej časti diplomovej práce a pri návrhu metodiky výv
 - [Zdrojové kódy aplikácie](DOPLNIŤ_ODKAZ)
 - [Použité knižnice a technológie](DOPLNIŤ_ODKAZ)
 - [Materiály k testovaniu](DOPLNIŤ_ODKAZ)
-```
 
 ## Aktuálny stav projektu
 
